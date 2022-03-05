@@ -1,0 +1,4 @@
+For test start a server manually by typing "uvicorn main:app --reload"
+then make requests with using http://127.0.0.1:8000/?url=https://codemaster-2022-site.obss.io/
+
+Created in 3-hours for a code competition using Fast API.
